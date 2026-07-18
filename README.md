@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Subhasis Panda
+**A passionate Data Analyst || AI/ML Engineer || QA Analyst from India**
+
+Email Me 👉 ✉️ **subhasispanda408@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Data analyst 
+- 🌱 **I’m currently learning:** Data Science and AI engnineering
+- 👯 **I’m looking to collaborate on:** Data analyst,Data Science and AI/ML engnineering
+- 🤔 **I’m looking for help with:** Data science and AI/ML engnineering
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** subhasispanda408@gmail.com
+- 😄 **Pronouns:** Subhasis
+- ⚡ **Fun fact:** I Love Technology and Technology Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhasisptech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhasispanda408@gmail.com) 
